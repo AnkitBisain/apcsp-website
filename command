@@ -22,5 +22,10 @@
         <p>Typing "ls" lists the current directory. This is used to check which files exist and are currently accessible.</p>
         <h2>#8:mkdir </h2>
         <p>Typing "mkdir [name]" creates a directory with the given name. It is used to create directories to store things.</p> 
+<h2>#9: rm </h2>
+        <p>Typing "rm [name]" removes the object with the given name. It is used to delete redundant or useless files.</p> 
+<h2>#10: scp </h2>
+        <p>Typing "scp [file] [location]" copies the file to the location. It is used to move files into places so they can be accessed.</p>
+
  </body>
 </html>
